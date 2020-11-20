@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularUserApp"
+    }
+  },
+  "defaultProject": "AngularUserApp",
+  "cli": {
+    "analytics": false
+  }
 }
